@@ -6,6 +6,6 @@
 - 🌱 I’m currently diving deep into Scala, exploring its potential, and expanding my knowledge in React and Spring Boot.
 - 💻 I’m proficient in **React** and **Spring Boot** with a knack for problem-solving.
 - 💞️ I’m looking to collaborate on innovative projects, especially those that challenge the norm and push the boundaries of what’s possible in technology.
-- 📫 How to reach me: Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/mohamed-aziz-ouerghi-030b20263/) or drop me an email at ouerghi01@example.com.
+- 📫 How to reach me: Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/mohamed-aziz-ouerghi-030b20263/) or drop me an email at mohamedaziz.ouerghi@etudiant-enit.utm.tn
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m always up for a good coding challenge or a deep dive into new and exciting technologies. Outside of tech, I love exploring new places and learning about different cultures.
